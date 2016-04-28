@@ -10,6 +10,9 @@
 
 @interface ViewController : UIViewController
 
+@property NSString *userName;
+@property NSString *password;
+@property NSString *userDetail;
 
 @end
 

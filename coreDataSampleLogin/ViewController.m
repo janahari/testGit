@@ -14,6 +14,9 @@
 
 @implementation ViewController
 
+@synthesize userName;
+@synthesize password;
+@synthesize userDetail;
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
