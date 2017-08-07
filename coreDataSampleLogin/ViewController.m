@@ -22,6 +22,7 @@
     // Do any additional setup after loading the view, typically from a nib.
     
     NSLog(@"Update in Git ");
+    NSLog(@"Tests");
 }
 
 - (void)didReceiveMemoryWarning {
