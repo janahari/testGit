@@ -14,5 +14,7 @@
 @property NSString *password;
 @property NSString *userDetail;
 
+@property NSString *onwer;
+
 @end
 

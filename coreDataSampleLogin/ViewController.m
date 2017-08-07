@@ -26,6 +26,7 @@
     
     NSLog(@"I did comit and oush ");
     
+    NSLog(@"Commit sample ");
 }
 
 - (void)didReceiveMemoryWarning {
