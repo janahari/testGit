@@ -24,6 +24,7 @@
     NSLog(@"Update in Git ");
     NSLog(@"Tests");
     
+    NSLog(@"I did comit and oush ");
     
 }
 
