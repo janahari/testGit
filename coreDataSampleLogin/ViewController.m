@@ -24,7 +24,7 @@
     NSLog(@"Update in Git ");
     NSLog(@"Tests");
     
-    NSLog(@"This is from mani desk top ");
+    
 }
 
 - (void)didReceiveMemoryWarning {
